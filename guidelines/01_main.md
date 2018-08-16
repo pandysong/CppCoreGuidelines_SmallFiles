@@ -1,6 +1,6 @@
 # <a name="main"></a>C++ Core Guidelines
 
-April 16, 2018
+August 13, 2018
 
 
 Editors:
@@ -863,7 +863,7 @@ Architectural rule summary:
 
 * [A.1: Separate stable from less stable part of code](18_A_Architectural_ideas.md#Ra-stable)
 * [A.2: Express potentially reusable parts as a library](18_A_Architectural_ideas.md#Ra-lib)
-* [A.4: There should be no cycles among libraries](18_A_Architectural_ideas.md#Ra-dag)
+* [A.4: There should be no cycles among libraries](#?Ra-dag)
 * [???](#???)
 * [???](#???)
 * [???](#???)
